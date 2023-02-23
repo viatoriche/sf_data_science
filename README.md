@@ -1,2 +1,5 @@
 # sf_data_science
-Skill Factory. Data Science.
+
+Skill Factory. Data science.
+
+Tasks and examples
